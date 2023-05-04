@@ -14,7 +14,7 @@
 - vercel Link - https://fcc-cofee-shop-app.vercel.app/
 
 ## Key things learnt:
-  - Type Selector (Styles applied with the help of all the Tags such as <h1>,<div>,<img>...)
+  - Type Selector (Styles applied with the help of all the Tags such as h1,div,img,etc...)
   - Class Selector (Styles applied with the help of classname)
   - To add background image (ex: ackground-image:url(https://pixabay.com/images/search/nature/)
   - To center div horizontally ( margin-right:auto; margin-left:auto)
